@@ -1,0 +1,5 @@
+Aler ID,Aler type,Description,Affected transactions count
+ICA300720211,ICA,Currency field is incorrect for the combination of AAWDW64954 and EX0345934355,1
+ICA300720212,ICA,Currency field is incorrect for the combination of AAWDW64954 and EX0345934354,1
+PPA300720213,PPA,Potential pumping price activity has been noticed for the following combination of AAWDW64954 and EX0345934354 and RUB where an average price is greater than previous more than 50% and is 292.07 ,1
+PPA300720214,PPA,Potential pumping price activity has been noticed for the following combination of AAWDW64954 and EX0345934354 and GBP where an average price is greater than previous more than 50% and is 286.8 ,2
